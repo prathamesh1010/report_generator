@@ -774,7 +774,7 @@ def generate_report_text(current_df, previous_df, company_name, kpi_threshold):
         'Expenses': previous_df['Expenses'].sum(),
         'Profit': previous_df['Profit'].sum()
     }
-    
+    #Entity info
     # Entity-Level Analysis
     entity_analysis = ""
     if 'Entity' in current_df.columns:

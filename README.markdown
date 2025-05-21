@@ -121,7 +121,6 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For questions or feedback, please contact [Your Name/Email] or open an issue on the repository.
+For questions or feedback, please contact pprathames1010@gmail.com or open an issue on the repository.
 
 ---
-*Generated on May 21, 2025*
